@@ -3,7 +3,7 @@
   "description": "HTML GUI for youtube-dl",
   "version": "1.1.1",
   "author": "Pierre Rudloff",
-  "bugs": "https://github.com/Rudloff/alltube/issues",
+  "bugs": "https://github.com/raysichic/alltube/issues",
   "dependencies": {
     "grunt": "~1.0.1",
     "grunt-contrib-cssmin": "~2.2.1",
@@ -23,7 +23,7 @@
     "grunt-phpdocumentor": "~0.4.1",
     "grunt-phpunit": "~0.3.6"
   },
-  "homepage": "https://www.alltubedownload.net/",
+  "homepage": "https://raytube.herokuapp.com/",
   "keywords": [
     "alltube",
     "download",
@@ -34,7 +34,7 @@
   "main": "Gruntfile.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rudloff/alltube.git"
+    "url": "https://github.com/raysichic/alltube.git"
   },
   "scripts": {
     "postinstall": "grunt"
